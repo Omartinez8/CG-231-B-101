@@ -1,0 +1,17 @@
+Ejercicio 3.1
+
+Cuando los tres factores de escala son iguales, se denomina escalado uniforme.
+Ahora, lee y contesta las siguientes cuestiones:
+
+
+1. ¿Que ocurre si los factores de escala son diferentes entre sı?
+ Al ser diferentes los factores de escala, la figura en cuestion pierde su proporcionalidad, siendo un escalado no uniforme
+
+2. ¿Y si algun factor de escala es cero?
+Si el factor de escala el cero, el punto quedara en cero, lo cual cambiaria la forma de la figura
+
+3. ¿Que ocurre si uno o varios factores de escala son negativos?
+Si los factores son negaticos la direccion de la escala cambia de sentido
+
+4. ¿Y si el factor de escala esta entre cero y uno?
+Si el factor esta entre 0 y 1, la figura se reduce
